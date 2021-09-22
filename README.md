@@ -3,4 +3,4 @@
 目前处于持续施工阶段中
 
 # 快速上手
-## 1、[启动游戏](https://www.baidu.com/)
+## 1、[启动游戏](Doc/c1_launch_game/README.md)
