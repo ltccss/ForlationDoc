@@ -4,7 +4,7 @@
 
 # 快速上手
 ## 1、[启动游戏](Doc/c1_launch_game/README.md)
-## 2、制作第一个页面
+## 2、[制作第一个页面](Doc/c2_your_first_page/README.md)
 ## 3、制作第一个游戏
 ## 4、*优化第一个游戏
 
